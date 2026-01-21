@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: 260121_docker-spring-live
+message: ${MESSAGE:hello docker}
